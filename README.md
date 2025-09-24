@@ -1,5 +1,5 @@
 
-# Understanding Consumer Complaints for Bank of America (2022–2025)
+# Understanding Consumer Complaints for Bank of America (2021–2024)
 
 ## Project Overview
 This project analyzes consumer complaints for Bank of America between 2021 and 2024. The goal is to understand trends in complaint volumes, identify which products and services generate the most issues, and highlight areas requiring improvement.
